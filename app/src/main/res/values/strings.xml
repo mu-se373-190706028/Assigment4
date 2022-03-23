@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assigment4</string>
+    <string name="in_years_months_days_minutes">IN YEARS,MONTHS,DAYS,MINUTES</string>
+    <string name="age">AGE</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="date_picker">Date Picker</string>
+</resources>
